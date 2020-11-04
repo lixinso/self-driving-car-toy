@@ -1,2 +1,5 @@
 # self-driving-car-toy
-Self Driving Car toy based on Nvidia Jetson
+
+- A toy SDC car
+- Self Driving Car toy based on Nvidia Jetson
+- Fully open source
